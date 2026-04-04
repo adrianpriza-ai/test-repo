@@ -1,4 +1,4 @@
 # Test Repo
-Repo pertama dari EndeavourOS
+Repo pertama dari Arch Linux
 
 Update test
