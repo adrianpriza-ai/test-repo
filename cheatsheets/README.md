@@ -43,7 +43,7 @@ Kumpulan cheatsheet lengkap untuk berbagai command-line tools.
 
 ```bash
 # Clone this repository
-git clone <repository-url>
+git clone https://github.com/adrianpriza-ai/test-repo
 
 # Navigate to cheatsheets
 cd cheatsheets
