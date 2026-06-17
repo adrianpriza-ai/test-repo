@@ -92,6 +92,6 @@ Free to use and share. Feel free to modify and distribute.
 
 ---
 
-> Last Updated: $(date +%Y-%m-%d)
+> Last Updated: 17-Juni-2026
 > 
 > Made with ❤️ for developers everywhere
