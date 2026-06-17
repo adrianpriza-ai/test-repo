@@ -153,4 +153,4 @@ gh cache delete --all                  # Hapus semua cache
 
 ---
 
-> Last Updated: $(date +%Y-%m-%d)
+> Last Updated: 17-Juni-2026

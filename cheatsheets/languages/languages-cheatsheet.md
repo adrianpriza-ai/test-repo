@@ -237,4 +237,4 @@ php -r "echo 'hello';"       # Run inline PHP
 
 ---
 
-> Last Updated: $(date +%Y-%m-%d)
+> Last Updated: 17-Juni-2026

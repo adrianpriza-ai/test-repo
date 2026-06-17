@@ -236,4 +236,4 @@ git commit --amend --no-edit
 
 ---
 
-> Last Updated: $(date +%Y-%m-%d)
+> Last Updated: 17-Juni-2026
